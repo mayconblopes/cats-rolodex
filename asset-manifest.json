@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cats-rolodex/static/css/main.85206818.css",
-    "main.js": "/cats-rolodex/static/js/main.570fb631.js",
+    "main.js": "/cats-rolodex/static/js/main.148c993e.js",
     "static/js/787.61507a31.chunk.js": "/cats-rolodex/static/js/787.61507a31.chunk.js",
     "index.html": "/cats-rolodex/index.html",
     "main.85206818.css.map": "/cats-rolodex/static/css/main.85206818.css.map",
-    "main.570fb631.js.map": "/cats-rolodex/static/js/main.570fb631.js.map",
+    "main.148c993e.js.map": "/cats-rolodex/static/js/main.148c993e.js.map",
     "787.61507a31.chunk.js.map": "/cats-rolodex/static/js/787.61507a31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85206818.css",
-    "static/js/main.570fb631.js"
+    "static/js/main.148c993e.js"
   ]
 }
