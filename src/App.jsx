@@ -11,7 +11,7 @@ function App() {
 	// This code defines an effect hook with a callback function that will run after the component is mounted
 	useEffect(() => {
 		// Defines the URL to fetch API data
-		const apiUrl = 'http://jsonplaceholder.typicode.com/users'
+		const apiUrl = 'https://jsonplaceholder.typicode.com/users'
 
 		// Fetches the data from the API URL
 		fetch(apiUrl)
